@@ -266,7 +266,7 @@ namespace FatturazioneElettronicaSamples
 Versione 1.6 si riferisce alle specifiche tecniche del formato della fatturazione elettronica riguardo lo schema xml
 
 ```
-	PM> Install-Package StudioAT.FatturazioneElettronica -Version 1.3.2
+	PM> Install-Package StudioAT.FatturazioneElettronicaSemplificata -Version 1.0.0
 ```
 dalla Console di Gestione Pacchetti di Visual Studio
 
