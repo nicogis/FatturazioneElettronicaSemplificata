@@ -7,13 +7,15 @@ La libreria è completa di tutti i type per creare una fattura completa con le s
 
 Possono essere create fatture con schema 1.0, 1.0.1
 
-La versione 1.0.1 è la versione corrente dello schema
+La versione 1.0.1 è la versione dello schema utilizzabile dal 1 ottobre 2020
+
+La libreria non ha un metodo per la convalida della fattura  
 
 Sono presenti i seguenti metodi:
 
-- *TryValidateXML* per validare la fattura
+- *TryValidateXML* per validare la fattura con lo schema xsd
 
-- *CreateXML* per generale il file XML
+- *CreateXML* per generare il file XML
 
 - *CreateInvoice* per generare l'oggetto fattura da file XML o stream
 
