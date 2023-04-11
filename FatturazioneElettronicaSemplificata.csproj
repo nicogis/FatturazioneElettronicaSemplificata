@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Exception\VersionNotFoundException.cs" />
     <Compile Include="Helper\Extension.cs" />
+    <Compile Include="Helper\Utf8StringWriter.cs" />
+    <Compile Include="Helper\Utility.cs" />
     <Compile Include="ProgressivoFile.cs" />
     <Compile Include="EstensioniFile.cs" />
     <Compile Include="FatturaElettronicaReferences.cs" />
